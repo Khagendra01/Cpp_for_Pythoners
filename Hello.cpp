@@ -4,6 +4,7 @@
 #include "strlib.hpp"
 
 using namespace std;
+using namespace cst;
 
 int main()
 {
@@ -13,8 +14,10 @@ int main()
 	cout << "Hello" ;
     cout << endl;
 
-    cst:: String myString("This is jesus love");
+    String myString("This is jesus love");
     cout << myString ;
+    string newString = "this is std string";
+    cout << newString;
     return 0;
 }
 
