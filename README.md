@@ -25,6 +25,9 @@ Contributions to this repository are highly encouraged! Whether it's fixing typo
 ## Feedback
 Your feedback is invaluable in improving this crash course for future learners. If you have any suggestions, comments, or ideas for improvement, please don't hesitate to open an issue or reach out directly.
 
+## Dev C++ link
+https://sourceforge.net/projects/orwelldevcpp/
+
 ## License
 This repository is licensed under the terms of the MIT License. You are free to use, modify, and distribute the content within this repository for both personal and commercial purposes. Refer to the LICENSE file for more information.
 
