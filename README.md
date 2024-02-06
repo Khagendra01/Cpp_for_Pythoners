@@ -11,7 +11,7 @@ This repository has been specifically crafted for individuals enrolled in Progra
 2) Go to Code, which is next to Add file button
 3) click create codespace on main
 4) Install C/C++ extensions to your codespace visual studio 
-5) Make changes
+5) Do the assignments
 6) go to terminal
 7) git add .
 8) git commit -m "My assignment <your-name"
