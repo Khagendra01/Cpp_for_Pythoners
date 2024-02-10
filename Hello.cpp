@@ -14,10 +14,9 @@ int main()
 	cout << "Hello" ;
     cout << endl;
 
-    String myString("This is jesus love");
+    String myString;
+    myString = "This is jesus love";
     cout << myString ;
-    string newString = "this is std string";
-    cout << newString;
     return 0;
 }
 

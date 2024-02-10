@@ -10,7 +10,10 @@ namespace cst {
 
     public:
         // Constructors
-        String() : data(nullptr), length(0) {}
+        String() {
+        data = nullptr;
+        length = 0; 
+        }
         String(const char* str) {
             length = 0;
             while (str[length] != '\0') {
