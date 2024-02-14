@@ -10,6 +10,7 @@ int main( ) {
     cout << "varN location: " << ptrN << endl;
     cout << "dereference ptrN: " << *ptrN << endl;
 
-
+    delete ptrN;
+    
     return 0;
 }
