@@ -1,23 +1,22 @@
-
 #include <iostream>
+#include <string>
 
 #include "strlib.hpp"
 
 using namespace std;
 
-
 int main()
 {
-    cout << "Hello" ;
-    cout << "Hello" ;
-    cout << "Hello" ;
-	cout << "Hello" ;
-    cout << endl;
+    cout << "Hello";
+    cout << "Hello";
+    cout << "Hello";
+    cout << "Hello";
+    cout << "Enter a string: ";
 
-    cst:: String myString;
-    myString = "This is jesus love";
-    cout << myString ;
+    string userInput;
+    cin >> userInput; // Read a string from cin into userInput
+
+    cout << "You entered: " << userInput << endl;
+
     return 0;
 }
-
-
