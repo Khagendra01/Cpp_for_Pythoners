@@ -20,3 +20,6 @@ int main() {
 
     return 0;
 }
+
+//print 5, 10
+//print 10, 5

@@ -4,6 +4,7 @@
  int main() {
 
     int a[] = {25, 50, 75, 100};
+    int b[10];
     cout << a[0] << '\n';
 
     int size;
@@ -16,7 +17,7 @@
     int *arr = new int[size];
 
     // Check if memory allocation was successful
-    if (arr == nullptr) {
+    if (arr == NULL) {
         std::cerr << "Memory allocation failed!" << std::endl;
         return 1; // indicate failure
     }
@@ -27,7 +28,6 @@
     }
 
     delete[] arr;
-
 
     return 0;
 } 

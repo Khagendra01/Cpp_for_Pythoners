@@ -1,12 +1,12 @@
 
 #include <iostream>
-using namespace std;
+#include <string>
 
 class Student {
     
   public:
     int roll_no;
-    string name;
+    std:: string name;
     float marks;
     static float passing_grade;
 };

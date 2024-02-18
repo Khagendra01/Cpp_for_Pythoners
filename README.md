@@ -5,18 +5,6 @@ Welcome to the C++ Crash Course repository! This resource is designed by Khagend
 ## Purpose
 This repository has been specifically crafted for individuals enrolled in Programming Languages classes, aiming to provide a swift yet comprehensive introduction to C++ programming. Geared towards Python programmers, this crash course condenses key concepts and features of C++ into a one-hour session, facilitating a seamless transition and understanding of this powerful programming language.
 
-## How to submit assignment
-0) (optional) Give a star to this repository
-1) fork this repository into your own profile
-2) Go to Code, which is next to Add file button
-3) click create codespace on main
-4) Install C/C++ extensions to your codespace visual studio 
-5) Do the assignments
-6) go to terminal
-7) git add .
-8) git commit -m "My assignment <your-name"
-9) git push
-
 ## Why C++?
 C++ stands as one of the most influential and versatile programming languages in the realm of software development. With its wide-ranging applications spanning from system programming to game development, understanding C++ opens doors to a myriad of opportunities in the tech industry.
 
