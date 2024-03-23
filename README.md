@@ -1,4 +1,4 @@
-# C++ Crash Course: Learn C++ in One Hour
+# C++ Crash Course: Learn C++ for Pythoners
 
 Welcome to the C++ Crash Course repository! This resource is designed by Khagendra Khatri and is licensed under the MIT License.
 
